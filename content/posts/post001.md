@@ -1,7 +1,6 @@
 +++
 title = 'Bienvenue'
 date = 2024-02-03T11:59:52+01:00
-featured_image= "/images/IMGP3331.JPG"
 +++
 
 Vous êtes sur le **portfolio de Tayel**.
@@ -14,7 +13,7 @@ Aujourd'hui, j'ai 12 ans et je suis à l'[école EOS](https://sites.google.com/v
 
 Pour mon anniversaire, mon papa à réaliser ce site. Je vais pouvoir l'enrichir de mes nouveaux dessins. Je suis trop content!
 
-{{< figure src="/images/IMGP3331.JPG" title="Les boules de Noël" >}}
+{{< figure src="../images/IMGP3331.JPG" title="Les boules de Noël" >}}
 
 Amusez-vous bien et n'hésitez pas à me laisser [vos commentaires](mailto:andrejjh+tayel@gmail.com).
 

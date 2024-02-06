@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://portfoliotayel.onrender.com'
 languageCode = 'fr'
 title = 'Portfolio de Tayel'
 theme = 'ananke'

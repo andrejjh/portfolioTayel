@@ -1,0 +1,5 @@
+# banish Mac .DS_Store files, tmp,...
+.DS_Store
+tmp
+__pycache__
+*.pyc

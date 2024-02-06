@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'Portfolio de Tayel'
+theme = 'ananke'
+sectionPagesMenu = 'main'
+
+[params]
+ site_logo = "images/THLogo.png"
+
+[module]
+[[module.mounts]]
+    source = 'static'
+    target = 'static'

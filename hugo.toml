@@ -5,9 +5,9 @@ theme = 'ananke'
 sectionPagesMenu = 'main'
 
 [params]
- site_logo = "images/THLogo.png"
+site_logo = "images/TayelLogo.png"
 
 [module]
 [[module.mounts]]
-    source = 'static'
-    target = 'static'
+source = 'static'
+target = 'static'

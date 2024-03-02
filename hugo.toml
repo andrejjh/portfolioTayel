@@ -5,7 +5,7 @@ theme = 'ananke'
 sectionPagesMenu = 'main'
 
 [params]
-site_logo = "images/TayelLogo.png"
+site_logo = "images/logoTayel.png"
 
 [module]
 [[module.mounts]]

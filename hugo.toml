@@ -6,6 +6,8 @@ sectionPagesMenu = 'main'
 
 [params]
 site_logo = "images/logoTayel.png"
+mainSections = ["posts"]
+
 
 [module]
 [[module.mounts]]
